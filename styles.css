@@ -1,0 +1,106 @@
+.header{
+    width: 100%; !important;
+    background-color: #921616;
+}
+.list{
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+}
+.welcome_message{
+    font-weight: bold;
+    font-size: 50px;
+    color: #921616;
+    margin-top: 100px;
+}
+.order{
+    width: 10rem;
+    height: 50px;
+    background-color: #921616;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+
+}
+.explore{
+    width: 10rem;
+    height: 50px;
+    color: #921616;
+    font-size: 25px;
+    font-weight: bold;
+    border: 2px solid #921616;
+    border-radius: 5px;
+
+}
+.home{
+    width: 100%;!important;
+}
+.about{
+    width: 100%;!important;
+    background-color: #921616;
+    color: white;
+}
+.description{
+    font-size: 25px;
+    opacity: 70%;
+}
+.menu{
+    color: #921616;
+}
+.menu_item{
+    width: 246px;
+    height: 370px;
+    border: 1px solid #921616;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.name{
+    height: 48px;
+    background-color: #921616;
+    color: white;
+    font-size: 25px;
+}
+.price{
+    height: 48px;
+    color: #921616;
+    font-size: 25px;
+    font-weight: bold;
+}
+.buy_now{
+    width: 230px;
+    height: 48px;
+    border: none;
+    border-radius: 10px;
+    background-color: #921616;
+    color: white;
+    font-size: 25px;
+}
+.contact{
+    background-color: #921616;
+    color: white;
+}
+input{
+    height: 51px;
+    padding-left: 15px;
+}
+.message{
+    height: 120px;
+}
+.send{
+    width: 158px;
+    height: 51px;
+    border: none;
+    border-radius: 10px;
+    color: #921616;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: white;
+}
+.copyright{
+    font-size: 20px;
+    font-weight: bold;
+}
